@@ -19,6 +19,7 @@
 - Flutter & Dart 📱
 - Firebase 🔥
 - HTML & CSS 🌐
+- Bootstrap 💻
 - AWS ☁️
 - SQL 📊
 - Git/GitHub 🔄
