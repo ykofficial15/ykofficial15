@@ -36,4 +36,9 @@
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/ykofficial15&" alt="https://github.com/ykofficial15" />
 </div>
 
+![Bootstrap](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat-square&logo=C++&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flutter%20Framework-05122A?style=flat-square&logo=Flutter-Framework&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=SQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) ![Bootstrap](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=GitHub&color=353535) ![Bootstrap](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=Dart&color=353535) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&color=353535)
 
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
+</div>
