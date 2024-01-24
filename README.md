@@ -33,5 +33,6 @@
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
+<!--   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" /> -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ykofficial15&theme=dark&border_radius=5&card_width=500)](https://git.io/streak-stats)
 </div>
