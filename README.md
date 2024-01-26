@@ -19,7 +19,7 @@
 - Firebase 🔥
 - HTML & CSS 🌐
 - Bootstrap 💻
-- AWS ☁️
+- AWS Services ☁️
 - SQL 📊
 - Git/GitHub 🔄
 - Figma & Canva 🎨
