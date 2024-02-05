@@ -35,6 +35,10 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ykofficial15&layout=donut-vertical)](https://github.com/ykofficial15/github-readme-stats)
 <div> 
+  <a href="https://github.com/ykofficial15/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykofficial15&layout=donut-vertical" alt="Top Langs">
+</a>
+
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ykofficial15&theme=dark&border_radius=5&" alt="GitHub Streak" /></a>
 </div>
 
