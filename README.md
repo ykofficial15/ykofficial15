@@ -26,6 +26,15 @@
 - Blender 🔄🧊
 - ChatGPT 🤖✨
 - Passionate about coding, designing, and exploring new technologies! Let's build something awesome together! 🌟
+  <div style="display: flex">
+        <a href="https://github.com/ykofficial15/github-readme-stats" style="width:50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykofficial15&layout=donut&theme=dark&border_radius=5" alt="Top Langs">
+  </a>
+    <a href="https://git.io/streak-stats" style="width:50%">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ykofficial15&theme=dark&border_radius=5" alt="GitHub Streak">
+  </a>
+
+</div>
 ### ⚙️ Tech Stack
 
 
@@ -35,13 +44,6 @@
 
 
 
-<div style="display: flex">
-    <a href="https://git.io/streak-stats" style="width:50%">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ykofficial15&theme=dark&border_radius=5" alt="GitHub Streak">
-  </a>
-  <a href="https://github.com/ykofficial15/github-readme-stats" style="width:50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykofficial15&layout=donut&theme=dark&border_radius=5" alt="Top Langs">
-  </a>
-</div>
+
 
 
