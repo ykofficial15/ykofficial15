@@ -33,11 +33,10 @@
 ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=Git&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Github-05122A?style=for-the-badge&logo=Github&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Android%20Studio-05122A?style=for-the-badge&logo=Android-Studio&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=Visual-Studio-Code&color=ffffff)
 
 
-<div> 
+<div style="display:flex"> 
 <a href="https://github.com/ykofficial15/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykofficial15&layout=donut&theme=dark&border_radius=5&" alt="Top Langs">
 </a>
-
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ykofficial15&theme=dark&border_radius=5&" alt="GitHub Streak" /></a>
 </div>
 
