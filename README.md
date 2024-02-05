@@ -36,7 +36,7 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/ykofficial15/github-readme-stats">
+  <a href="https://github.com/ykofficial15/github-readme-stats" style="width:50%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykofficial15&layout=donut&theme=dark&border_radius=5" alt="Top Langs">
   </a>
   <a href="https://git.io/streak-stats">
