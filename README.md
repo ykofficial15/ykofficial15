@@ -32,12 +32,12 @@
 
 ![Bootstrap](https://img.shields.io/badge/-C/C%2B%2B-05122A?style=for-the-badge&logo=C/C++&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=Flutter&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Dart-05122A?style=for-the-badge&logo=Dart&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=SQL&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&logo=Firebase&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-RESTAPI%27s-05122A?style=for-the-badge&logo=RESTAPI's&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=AWS&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=Figma&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Canva-05122A?style=for-the-badge&logo=Canva&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Blender%203D-05122A?style=for-the-badge&logo=Blender-3D&color=ffffff) 
 ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=Git&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Github-05122A?style=for-the-badge&logo=Github&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Android%20Studio-05122A?style=for-the-badge&logo=Android-Studio&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=Visual-Studio-Code&color=ffffff)
-  <div style="display: flex">
+  <div style="display: flex; float:left;">
         <a href="https://github.com/ykofficial15/github-readme-stats" style="width:50%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykofficial15&layout=donut&theme=dark&border_radius=5" alt="Top Langs">
   </a>
     <a href="https://git.io/streak-stats" style="width:30%">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ykofficial15&theme=dark&border_radius=5" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ykofficial15&theme=dark&border_radius=5&width=50%" alt="GitHub Streak">
   </a>
 
 </div>
