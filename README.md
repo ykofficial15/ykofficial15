@@ -37,7 +37,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykofficial15&layout=donut&theme=dark&border_radius=5" alt="Top Langs">
   </a>
     <a href="https://git.io/streak-stats" style="width:30%">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ykofficial15&theme=dark&border_radius=5&width=50%" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ykofficial15&theme=dark&border_radius=5" alt="GitHub Streak">
   </a>
 
 </div>
