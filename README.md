@@ -22,6 +22,7 @@
 - Figma & Canva 🎨
 - Blender 🔄🧊
 - ChatGPT 🤖✨
+- 
 - Passionate about coding, designing, and exploring new technologies! Let's build something awesome together! 🌟
 ### ⚙️ Tech Stack
 
