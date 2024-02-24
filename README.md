@@ -17,7 +17,6 @@
 - HTML & CSS 🌐
 - Bootstrap 💻
 - AWS Services ☁️
-- 
 - SQL 📊
 - Git/GitHub 🔄
 - Figma & Canva 🎨
