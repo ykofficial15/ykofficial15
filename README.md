@@ -8,7 +8,6 @@
 
 👋 Hey there! I'm Yogesh Kumawat from Indore, currently on the exciting journey of pursuing B.Tech in Computer Science at Prestige Institute of Engineering Management & Research, Indore. 💻 As a passionate Flutter developer, I've crafted a variety of static and dynamic apps that bring ideas to life.
 
-
 🚀 Whether you're looking to collaborate, share insights, or just connect, feel free to reach out to me at yogesh05kumawat@gmail.com. Let's code something amazing together! 🌟 #FlutterDeveloper #TechEnthusiast #OpenToCollaborate 🤖
 ### 🖥 Skills
 - C++ 🚀
