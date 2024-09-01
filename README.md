@@ -3,7 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/yogesh-k-03a080224//)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/https://www.youtube.com/@yogxworld15/)](https://www.instagram.com/https://www.youtube.com/@yogxworld15)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yogesh05kumawat@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://yogeshprojects.blogspot.com/)](https://yogeshprojects.blogspot.com/)
 
 👋 Hey!!!
 
